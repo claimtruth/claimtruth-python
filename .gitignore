@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local-only: IDE, macOS, and starter-kit planning files (not committed)
+.idea/
+.DS_Store
+CLAUDE.md
+START-HERE.md
+docs/plan-month*.md
+docs/architecture.md
+docs/annotation-guideline.md
+data/README.md
+data/examples/
+
+# Raw, unprocessed downloads (large or licensed; never committed)
+data/raw/
