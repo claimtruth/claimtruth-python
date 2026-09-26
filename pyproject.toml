@@ -5,7 +5,11 @@ description = "Checks whether a cited source supports a claim at the claim's sta
 readme = "README.md"
 license = "Apache-2.0"
 license-files = ["LICENSE"]
-authors = [{ name = "The ClaimTruth Authors" }]
+authors = [
+    { name = "Vignesh Sathiyamurthy", email = "vignesh.satya4@gmail.com" },
+    { name = "Ashwini Saravanan", email = "ashwiniradha248@gmail.com" },
+    { name = "Raveendhar Santhanam", email = "sanjuravi134@gmail.com" },
+]
 requires-python = ">=3.12,<3.13"
 dependencies = [
     "alembic>=1.20.0",
